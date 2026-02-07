@@ -208,7 +208,10 @@ main {
     width: 3200px;
     top: calc(50% - 450px);
     left: calc(50% - 50px);
-
+    user-select: none;
+    -webkit-user-drag: none;
+    pointer-events: none;
+    mix-blend-mode: screen;
     z-index: var(--z-bg-img);
 }
 
@@ -293,12 +296,14 @@ main {
     text-align: center;
     color: white;
     text-transform: uppercase;
+    user-select: auto !important;
 }
 
 .text h1 {
     font-size: 6rem;
     font-weight: 600;
     line-height: 1;
+    margin: 20px;
     opacity: 0;
     transform: translateY(100px);
     transition: 1s cubic-bezier(0.2, 0.49, 0.32, 0.99);
