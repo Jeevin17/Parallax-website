@@ -1,7 +1,7 @@
 # 3D Parallax Website
 
 A visually engaging website featuring a 3D parallax effect built with vanilla JavaScript and CSS. The background elements move at varying speeds in response to mouse movements, creating a dynamic sense of depth and immersion.
-
+# Demo
 ![Project Demo](assets/demo.gif)
 
 ## Features
