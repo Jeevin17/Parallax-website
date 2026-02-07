@@ -242,7 +242,7 @@ main {
     mix-blend-mode: screen;
     z-index: var(--z-fog-6);
     top: calc(50% + 177px);
-    left: calc(50% - 30px);
+    left: calc(50% - 730px);
     width: 1418px;
 
 }
@@ -269,7 +269,7 @@ main {
     mix-blend-mode: screen;
     z-index: var(--z-fog-5);
     top: calc(50% + 149px);
-    left: calc(50% - 28px);
+    left: calc(50% - 78px);
     width: 1435px;
 
 }
@@ -335,7 +335,7 @@ main {
     mix-blend-mode: screen;
     z-index: var(--z-fog-4);
     top: calc(50% + 242px);
-    left: calc(50% - 64px);
+    left: calc(50% - 94px);
     width: 543px;
 
 }
